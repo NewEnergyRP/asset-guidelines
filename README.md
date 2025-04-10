@@ -21,7 +21,6 @@ By submitting an asset to NERP, the Submitter acknowledges and agrees to these t
 - Included contents must not break **Twitch TOS**, or **CFX TOS**. Contents of the asset must not be ripped from any other games or asset packs.
 - **Any edits** to vanilla files must **remain unencrypted**, as any conflicting files will **require manual edits** in order to be merged with our own edited files.
 - Must not encroach or overlap with any already existing custom assets.
-- Assets must not rely on custom scripts that are required to be run.
 
 ## Custom Peds & MP Clothing Requirements
 Peds & MP Clothing Standards must be followed to be considered for use.
@@ -78,7 +77,6 @@ MLOs Standards must be followed to be considered for use.
 - Included contents must not break **Twitch TOS**, or **CFX TOS**. Contents of the asset must not be ripped from any other games or asset packs.
 - **Any edits** to vanilla files must **remain unencrypted**, as any conflicting files will **require manual edits**, in order to be merged with our own edited files.
 - Must not encroach or overlap with any already existing custom assets.
-- Assets must not rely on custom scripts that are required to be run.
 
 ### Quality
 - Must fit the world and overall design of the “modern day” setting of GTA. Assets should also fit the themes of the respective locations of the map wherein they will reside.
@@ -93,3 +91,6 @@ MLOs Standards must be followed to be considered for use.
 - Textures must be stored in texture dictionaries and not encrypted into the model.
 - If there are large exterior edits or newly added buildings, custom LOD models must be included for up to 3000 units or more.
 - Added LODs must be made in **their own unique files**, and in their own .ymap structure. Custom LODs should **NOT** be getting added to any already existing Vanilla files.
+
+## Custom Vehicle Requirements
+Vehicle Standards must be followed to be considered for use.
