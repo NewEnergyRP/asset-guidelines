@@ -22,8 +22,8 @@ By submitting an asset to NERP, the Submitter acknowledges and agrees to these t
 - **Any edits** to vanilla files must **remain unencrypted**, as any conflicting files will **require manual edits** in order to be merged with our own edited files.
 - Must not encroach or overlap with any already existing custom assets.
 
-## Custom Peds & MP Clothing Requirements
-Peds & MP Clothing Standards must be followed to be considered for use.
+## Custom MP Clothing Requirements
+MP Clothing Standards must be followed to be considered for use.
 
 ### Quality
 - Must fit the world and overall design of the “modern day” setting of GTA.
