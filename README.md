@@ -94,3 +94,17 @@ MLOs Standards must be followed to be considered for use.
 
 ## Custom Vehicle Requirements
 Vehicle Standards must be followed to be considered for use.
+
+### Standard Guidelines
+- Included contents must not break **Twitch TOS**, or **CFX TOS**. Contents of the asset must not be ripped from any other games or asset packs.
+- **Any edits** to vanilla files must **remain unencrypted**, as any conflicting files will **require manual edits**, in order to be merged with our own edited files.
+- Must not encroach or overlap with any already existing custom assets.
+
+### Quality
+- Must fit the world and overall design of the “modern day” setting of GTA.
+- Proper use of LODs.
+
+### Optimization
+- Must pass a performance check.
+- **Very limited** use of **2k textures** if any, with absolutely **NO use** of **4k textures** or above.
+- Textures must be stored in texture dictionaries and not encrypted into the model.
